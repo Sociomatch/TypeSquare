@@ -9,3 +9,5 @@ This corresponds to the quadrants from Socionics. The strongest sensor is on the
 left, the strongest intuitive on the right.
 
 Edits on ITR names, Kiersey removal and Model G adaptation
+
+Credit - FalconNL
